@@ -24,7 +24,7 @@ namespace Unity.FPS.UI
             //SceneManager.LoadScene(SceneName);
             // BossFight scene
             //SceneManager.LoadScene(4);
-            SceneManager.LoadScene(5);
+     //       SceneManager.LoadScene(5);
         }
     }
 }
